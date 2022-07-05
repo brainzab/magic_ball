@@ -2,7 +2,7 @@
 
 This application is a simple console game in Ruby
 
-About the game: https://en.wikipedia.org/wiki/Hangman_(game)
+About the game: https://en.wikipedia.org/wiki/Magic_8_Ball
 
 **Game description:**
 
