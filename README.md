@@ -10,4 +10,4 @@ The game is implemented in Russian language
 
 To run the program execute the following line in the console:
 
-`ruby main.rb`
+```ruby main.rb```
