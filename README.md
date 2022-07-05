@@ -1,6 +1,7 @@
 # The Magic Ball Game
 
 This application is a simple console game in Ruby
+About the game: https://en.wikipedia.org/wiki/Hangman_(game)
 
 **Game description:**
 
@@ -12,5 +13,4 @@ To run the program execute the following line in the console:
 
 ```
 ruby main.rb
-
 ```
